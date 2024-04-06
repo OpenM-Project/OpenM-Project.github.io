@@ -1,0 +1,1 @@
+# favicons for website

@@ -7,12 +7,12 @@ title: "OpenM Project"
 
 ## :star2: How we're different
 
-| Other tools                     | Our tools                             |
-|---------------------------------|---------------------------------------|
-| Closed-source                   | Fully open-source                     |
-| Permanently modify system files | Doesn't modify any files              |
-| Breaks between releases         | Compatible for *(almost)* any release |
-| Bloated code                    | Clean and modular code                |
+| Other tools                         | Our tools                                                |
+|-------------------------------------|----------------------------------------------------------|
+| :x: Closed-source                   | :white_check_mark: Fully open-source                     |
+| :x: Permanently modify system files | :white_check_mark: Doesn't modify any files              |
+| :x: Breaks between releases         | :white_check_mark: Compatible for *(almost)* any release |
+| :x: Bloated code                    | :white_check_mark: Clean and modular code                |
 
 ## :wrench: Projects
 - **[BEAMinject](https://openm-project.github.io/BEAMinject/)**

@@ -1,4 +1,4 @@
-# OpenM Project website
+# :ringed_planet: OpenM Project website
 
 Work in progress! Will eat your cat.
 

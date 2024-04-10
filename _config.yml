@@ -1,0 +1,5 @@
+remote_theme: "godalming123/minimal"
+
+plugins:
+  - jemoji
+  - jekyll-remote-theme

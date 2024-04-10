@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Override title -->
+    <title>OpenM Project</title>
+{% seo %}
+    <link rel="stylesheet" href="{{ "/assets/css/colors-auto.css?v=" | append: site.github.build_revision | relative_url }}">
+    <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+    <!--[if lt IE 9]>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <![endif]-->
+    <link rel="icon" type="image/png" href="{{ "/assets/img/favicon.png" | relative_url }}" />
+    
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <img src="{{ "/assets/img/logo.png" | relative_url}}" alt="Logo" />
+
+        <p>{{ site.description | default: site.github.project_tagline }}</p>
+
+        <ul class="downloads">
+          <li><a href="https://dsc.gg/openm">Join Our <strong>Discord</strong></a></li>
+          <li><a href="https://github.com/OpenM-Project">View Our <strong>GitHub</strong></a></li>
+          <li><a href="https://github.com/OpenM-Project/OpenM-Project/OpenM-Project.github.io">View <strong>Page Source</strong></a></li>
+        </ul>
+      </header>
+      <section>
+
+      {{ content }}
+
+      </section>
+    </div>
+    <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
+  </body>
+</html>

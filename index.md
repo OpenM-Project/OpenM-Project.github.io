@@ -3,8 +3,6 @@ layout: default
 title: "OpenM Project"
 ---
 
-# :ringed_planet: The heart of open-source utilities for Minecraft: Bedrock Edition
-
 ## :star2: How we're different
 
 | Other tools                         | Our tools                                                |

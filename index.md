@@ -14,7 +14,7 @@ title: "OpenM Project"
 
 ## :wrench: Projects
 
-- **[BEAMinject](https://openm.tech/BEAMinject/)**
+- **[BEAMinject](https://openm-project.github.io/BEAMinject/)**
     - A fast unlocker for Minecraft: Windows 10 Edition that uses memory patching method.
 - **[librosewater](https://github.com/OpenM-Project/librosewater)**
     - A module for memory handling of processes using ctypes.

@@ -3,24 +3,15 @@ layout: default
 title: "OpenM Project"
 ---
 
-## :star2: How we're different
-
-| Other tools                         | Our tools                                                |
-|-------------------------------------|----------------------------------------------------------|
-| :x: Mostly closed-source            | :white_check_mark: Fully open-source                     |
-| :x: Permanently modify system files | :white_check_mark: Don't modify any files                |
-| :x: Break inbetween releases        | :white_check_mark: Compatible for *(almost)* any release |
-| :x: Bloated code                    | :white_check_mark: Clean and modular code                |
-
 ## :wrench: Our Projects
 
-- **[BEAMinject](https://openm.tech/BEAMinject/)**
-    - A fast unlocker for Minecraft: Windows 10 Edition that uses memory patching method.
-- **[librosewater](https://github.com/OpenM-Project/librosewater)**
-    - A module for memory handling of processes using ctypes.
 - **[MCDOC](https://mcdoc.openm.tech/)**
-    - An Ultimate Collection of Minecraft History, Tools & Unlockers.
+    - MCDOC is a documentation project for Minecraft tools and unlockers.
+- **[DroidMC](https://mcdoc.openm.tech/)**
+    - DroidMC aims to provide every single version of Minecraft that is publicly available, and let the user download them with multiple different files that will support their device, easily, while being open-sourced.
+- **[MCBEDOC (Archived)](https://mcbedoc.openm.tech/)**
+    - MCBEDOC is a documentation project for Minecraft Bedrock Edition tools and unlockers.
 
-## :page_with_curl: License
+## :page_with_curl: Project Licenses
 
-All of our code and assets are licensed under GNU AGPLv3.
+All of our code and assets are licensed under the GNU AGPLv3 license, unless stated otherwise.

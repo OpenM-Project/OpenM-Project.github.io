@@ -18,6 +18,5 @@ All of our code and assets are licensed under the GNU AGPLv3 license, unless sta
 
 ## :coin: Project Credits
 
-- Credits for Logo: [soyeonswife63](https://github.com/soyeonswife63)
 - Credits for MCDOC + MCBEDOC: [Cubebanyasz](https://github.com/misike12), [XtronXI](https://github.com/xtronxi), and [arsfrr](https://github.com/arsfrr), and any other contributors.
 - Credits for DroidMC: [Cubebanyasz](https://github.com/misike12), [arsfrr](https://github.com/arsfrr), and any other contributors.

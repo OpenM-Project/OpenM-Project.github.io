@@ -14,7 +14,7 @@ title: "OpenM Project"
 
 ## :page_with_curl: Project Licenses
 
-All of our code and assets are licensed under the GNU AGPLv3 license, unless stated otherwise.
+All of our code and assets are licensed under the MIT License, unless stated otherwise.
 
 ## :coin: Project Credits
 

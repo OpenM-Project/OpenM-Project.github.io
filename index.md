@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "OpenM Project"
+title: "OpenM"
 ---
 
 ## :wrench: Our Projects
@@ -11,6 +11,12 @@ title: "OpenM Project"
     - DroidMC aims to provide every single version of Minecraft that is publicly available, and let the user download them with multiple different files that will support their device, easily, while being open-sourced.
 - **[MCBEDOC (Archived)](https://mcbedoc.openm.tech/)**
     - MCBEDOC is a documentation project for Minecraft Bedrock Edition tools and unlockers.
+
+## :sparkle: Our Socials
+
+- [Discord](https://dsc.gg/open-m)
+- [Reddit](https://www.reddit.com/r/openm/)
+- [Youtube](https://www.youtube.com/@openm-project)
 
 ## :page_with_curl: Project Licenses
 

@@ -14,7 +14,6 @@ title: "OpenM"
 
 - [Discord](https://dsc.gg/open-m)
 - [Reddit](https://www.reddit.com/r/openm/)
-- [Youtube](https://www.youtube.com/@openm-project)
 
 ## :page_with_curl: Project Licenses
 

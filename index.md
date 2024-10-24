@@ -21,4 +21,4 @@ All of our code and assets are licensed under the MIT License, unless stated oth
 
 ## :coin: Project Credits
 
-- Credits for MCDOC + MCBEDOC: [Cubebanyasz](https://github.com/misike12), [XtronXI](https://github.com/xtronxi), and [arsfrr](https://github.com/arsfrr), and any other contributors.
+- Credits for MCDOC + MCBEDOC: [Cubebanyasz](https://github.com/misike12), [XtronXI](https://github.com/xtronxi), and [ARSfr](https://github.com/ars-fr), and any other contributors.

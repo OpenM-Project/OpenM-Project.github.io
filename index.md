@@ -7,8 +7,6 @@ title: "OpenM"
 
 - **[MCDOC](https://mcdoc.site/)**
     - MCDOC is a documentation project for Minecraft tools and unlockers.
-- **[reMCenters](https://github.com/OpenM-Project/reMCenters)**
-    - An unofficial fork of MCenters, which was a multi-method & EOL unlocker for Minecraft for Windows.
 - **[MCBEDOC (Archived)](https://github.com/OpenM-Project/mcbedoc.github.io/)**
     - MCBEDOC is a documentation project for Minecraft Bedrock Edition tools and unlockers.
 

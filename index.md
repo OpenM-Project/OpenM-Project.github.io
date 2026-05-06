@@ -7,7 +7,7 @@ title: "OpenM"
 
 - **[MCDOC](https://mcdoc.site/)**
     - MCDOC is a documentation project for Minecraft tools and unlockers.
-- **[MCBEDOC (Archived)](https://github.com/OpenM-Project/mcbedoc.github.io/)**
+- **[MCBEDOC (Archived)](https://nostalgia.mcdoc.site/)**
     - MCBEDOC is a documentation project for Minecraft Bedrock Edition tools and unlockers.
 
 ## :sparkle: Our Socials
